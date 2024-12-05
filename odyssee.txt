@@ -1,0 +1,9 @@
+Lire le fichier de patrimoine compteur et transformer les variables, 
+DATE_RECEPTION, DATE_MISE_EN_SERVICE_PDS, DATE_DERNIERE_RELEVE en timestamp
+
+Transformer les variables diametre et INDEX_DERNIERE_RELEVE en integer et la variable CMJ en double
+Quel est le nombre de compteur telereve et le nombre de compteur relevé à pied?
+Quels est le nombre de PDS mis en service en 2023 ? Quels sont les PDS télé relevé parmi ceux la?
+Quel est le nombre de PDS telereleve à la commune de BOIGNY SUR BIONNE? Quels sont sont avec un Diametre > à 40cm?
+combien de contrats existent dans ce data set et quel est le nombre de commune par contrats
+quelle est la commune qui possede le plus des diametre de compteurs >=100cm?
